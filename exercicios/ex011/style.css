@@ -1,0 +1,108 @@
+style {
+}
+#main-cnt {
+    flex: 1;
+    overflow: hidden;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+    text-size-adjust: none !important;
+    -ms-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    background: var(--body-bg);
+    color: var(--body-text-color);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: var(--font-size);
+    overscroll-behavior: none;
+}
+:root {
+    --font-size: 15px;
+    --sidebar-width: 0px;
+}
+:root {
+    --danger-bg: #D71313;
+    --danger-font: #fff;
+    --info-bg: rgba(0, 0, 0, .25);
+    --info-font: #ffc000;
+    --success-bg: #38a000;
+    --success-font: #fff;
+    --warning-bg: #fff3b0;
+    --warning-font: #000;
+    --font: Verdana, sans-serif;
+    --body-font-color: #d6dee9;
+    --body-bg-song: #242830;
+    --card-text-color: #fff;
+    --bg-modal: #282c34;
+    --tools-a-color: #000;
+    --a-color: #3aa8fc;
+    --alert-primary-bg: #1372df;
+    --alert-primary-bg-hover: #1312df;
+    --alert-primary-color: #fff;
+    --body-bg: #282c34;
+    --body-text-color: var(--body-font-color);
+    --footer-ahover-bg: rgba(0, 0, 0, .95);
+    --footer-ahover-color: #3aa8fc;
+    --footer-bg: #14161a;
+    --form-small-bg: rgba(0, 0, 0, .25);
+    --heading-color: #3aa8fc;
+    --input-placeholder-color: var(--body-font-color);
+    --input-select-bg: rgba(0, 0, 0, .25);
+    --input-select-color: #fff;
+    --input-select-focus-bg: black;
+    --input-span-placeholder-color: #0f0;
+    --list-active-bg: #14161a;
+    --list-active-color: #ffc000;
+    --list-bg: #1e2127;
+    --list-button-bg: #14161a;
+    --list-button-text-color: #fff;
+    --list-button-bg-hover: black;
+    --list-button-text-color-hover: #ffc000;
+    --list-ico-bg: #7e8896;
+    --list-ico-color: #000;
+    --list-ico-ok-bg: #1ab221;
+    --list-label-color: #8594a7;
+    --list-text-color: var(--body-font-color);
+    --list-ico-active-bg: #3aa8fc;
+    --list-ico-active-color: #fff;
+    --loader-color: #ffc000;
+    --navbar-bg: #14161a;
+    --navbar-hover-bg: rgba(0, 0, 0, .95);
+    --navbar-ico-active-bg: #3aa8fc;
+    --navbar-ico-active-bg2: #1091f3;
+    --navbar-ico-active-color: #fff;
+Show All Properties (20 more)
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+    text-size-adjust: none !important;
+    -ms-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+    text-size-adjust: none !important;
+    -ms-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -webkit-tap-highligh}

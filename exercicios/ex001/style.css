@@ -1,0 +1,180 @@
+@charset UTF-8;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    background-image: linear-gradient(#ff605d81, #00ccbe77, #747e7e67);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+
+
+.texto {
+    width: 50%;
+    background-color: rgba(86, 46, 182, 0.315);
+    list-style-type: none;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+h1 {
+    margin: 50px;
+    background-color: rgba(0, 0, 255, 0.363);
+    text-align: center;
+}
+
+h2{text-align: center;}
+
+p {
+    background-color: antiquewhite;
+
+
+}
+
+ul.number-1 {
+    width: 10%;
+    background-color: rgba(86, 46, 182, 0.315);
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul.number-2 {
+    list-style: none;
+    background-image: linear-gradient(#FF5F5D, #747E7E, #00CCBF);
+    width: 10%;
+    display: inline-block;
+}
+
+ul.number-3 {
+    list-style: none;
+    background-image: linear-gradient(#747E7E, #00CCBF, #FF5F5D);
+    width: 10%;
+    display: inline-block;
+}
+
+ul.number-4 {
+    list-style: none;
+    background-image: linear-gradient(#747E7E, #00CCBF, #FF5F5D);
+    width: 10%;
+    display: inline-block;
+}
+
+ul.ordem-1 {
+    list-style: none;
+    background-image: linear-gradient(#00CCBF, #FF5F5D, #747E7E);
+    width: 10%;
+    display: inline-block;
+}
+
+ul.ordem-2 {
+    list-style: none;
+    background-image: linear-gradient(#747E7E, #00CCBF, #FF5F5D);
+    width: 10%;
+    display: inline-block
+}
+
+nav{
+    position: relative;
+    font-family: monospace;
+    float: left;
+    width: 100%;
+}
+
+ul.ordem-3 {
+    list-style: none;
+    background-image: linear-gradient(#747E7E, #00CCBF, #FF5F5D);
+    padding-left: 0px;
+    color: white;
+    margin: 10px;
+    background: black;
+}
+
+ul.number-1 li {
+    width: 80px;
+}
+
+ul.number-2 li {width: 80px;}
+
+ul.number-3 li {width: 80px;}
+
+ul.number-4 li {width: 80px;}
+
+ul.ordem-1 li {
+    display: block;
+    margin: 20px;
+}
+
+ul.ordem-2 li {
+    display: block;
+    margin: 20px;
+}
+
+ul.ordem-3 li {
+    background-color: #333;
+    display: block;
+    float: left;
+    padding: 2px;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    margin: 10px 10px 1px 10px;
+    background: black;
+    
+}
+
+ul.ordem-3 li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul.ordem-3 li ul {
+    visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+    position: absolute;
+    transition: all 0.5s ease;
+    margin-top: 5px;
+    left: 0;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(23, 223, 50, 0.315);}
+
+
+    ul.ordem-3 li ul li{
+        clear: both;
+        width: 100%;
+        margin: 0px;
+    }
+    
+    ul.ordem-3 li:hover,
+    ul.ordem-3 li:focus-within{
+        background-color: green;
+        cursor: pointer;
+        font-weight: bold;
+        transition: 0.3s;}
+
+      a:hover{
+        color: red;}
+        /*controla a exibiçao do dropdown*/  
+
+        ul.ordem-3 li:hover>ul,
+        ul.ordem-3 li:focus-within>ul,
+        ul.ordem-3 li ul:hover,
+        ul.ordem-3 li ul:focus{
+            visibility: visible;
+            opacity: 1;
+            display: block;
+        }
+
+
+
+

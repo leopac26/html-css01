@@ -1,0 +1,709 @@
+
+element.style {
+}
+li {
+    list-style: none;
+}
+html, body, div, h1, h2, h3, h4, h5, h6, p, ol, ul, li, img, form, input, label, select, textarea, table, th, tr, td, thead, tbody, tfoot, blockquote, iframe, hr, button, center, a, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+a, body, button, div, form, h1, h2, html, iframe, img, input, label, li, ol, p, select, span, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#side-menu #side-font ul, #side-menu #side-tom ul {
+    display: block;
+    line-height: 2.8;
+}
+#side-menu #side-font ul, #side-menu #side-tom ul {
+    display: block;
+    line-height: 2.8;
+}
+#side-menu .side-controls ul {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    right: 25px;
+    transition: top .2s;
+    text-align: center;
+    cursor: pointer;
+}
+#side-menu .side-controls ul {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    right: 25px;
+    text-align: center;
+}
+user agent stylesheet
+ul ul {
+    list-style-type: circle;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#side-menu>ul>li>.btn, #side-menu .side-item {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: normal;
+    border-radius: 8px;
+}
+#side-menu .side-item, #side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    cursor: default;
+    position: relative;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    position: relative;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    border: solid 1px #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+    border: 1px solid #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body, small {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+element.style {
+}
+li {
+    list-style: none;
+}
+html, body, div, h1, h2, h3, h4, h5, h6, p, ol, ul, li, img, form, input, label, select, textarea, table, th, tr, td, thead, tbody, tfoot, blockquote, iframe, hr, button, center, a, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+a, body, button, div, form, h1, h2, html, iframe, img, input, label, li, ol, p, select, span, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#side-menu #side-font ul, #side-menu #side-tom ul {
+    display: block;
+    line-height: 2.8;
+}
+#side-menu #side-font ul, #side-menu #side-tom ul {
+    display: block;
+    line-height: 2.8;
+}
+#side-menu .side-controls ul {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    right: 25px;
+    transition: top .2s;
+    text-align: center;
+    cursor: pointer;
+}
+#side-menu .side-controls ul {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    right: 25px;
+    text-align: center;
+}
+user agent stylesheet
+ul ul {
+    list-style-type: circle;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#side-menu>ul>li>.btn, #side-menu .side-item {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: normal;
+    border-radius: 8px;
+}
+#side-menu .side-item, #side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    cursor: default;
+    position: relative;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    position: relative;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    border: solid 1px #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+    border: 1px solid #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body, small {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+.player-placeholder a {
+    /* display: block; */
+    /* width: 72px; */
+    /* height: 72px; */
+    /* background: rgba(0, 0, 0, .7); */
+    /* border-radius: 50%; */
+    /* position: absolute; */
+    /* top: 50%; */
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    box-shadow: 0 3px 6px rgba(0,0,0,.3);
+}
+.player-placeholder a {
+    display: block;
+    width: 72px;
+    height: 72px;
+    background: rgba(0, 0, 0, .7);
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 3px 6px rgba(0,0,0,.3);
+}
+a {
+    text-decoration: none;
+    color: #f70;
+}
+html, body, div, h1, h2, h3, h4, h5, h6, p, ol, ul, li, img, form, input, label, select, textarea, table, th, tr, td, thead, tbody, tfoot, blockquote, iframe, hr, button, center, a, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: #f70;
+}
+a, body, button, div, form, h1, h2, html, iframe, img, input, label, li, ol, p, select, span, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body, small {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+.player-placeholder a:before {
+    content: "";
+    width: 21px;
+    height: 24px;
+    background: url(../img/desktop//sprite.svg?v=31) -83px -109px;
+    position: absolute;
+    top: 50%;
+    left: calc(50% + 2px);
+    transform: translate(-50%, -50%);
+    display: block;
+}
+.player-placeholder a:before {
+    content: "";
+    width: 21px;
+    height: 24px;
+    position: absolute;
+    top: 50%;
+    left: calc(50% + 2px);
+    transform: translate(-50%, -50%);
+    display: block;
+}
+/*configuraçao dos botooes da barra lateral*/
+
+lement.style {
+}
+#side-menu #side-font button, #side-menu #side-tom button {
+    color: transparent;
+}
+#side-menu #side-font button, #side-menu #side-tom button {
+    color: transparent;
+}
+#side-menu .side-controls button+ul+button {
+    left: auto;
+    right: 4px;
+}
+#side-menu .side-controls button+ul+button {
+    left: auto;
+    right: 4px;
+}
+#side-menu .side-controls button {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    border: 0;
+    cursor: pointer;
+}
+#side-menu .side-controls button {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    border: 0;
+}
+button {
+    cursor: pointer;
+}
+input, button {
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    border: 0;
+    background-color: transparent;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+}
+html, body, div, h1, h2, h3, h4, h5, h6, p, ol, ul, li, img, form, input, label, select, textarea, table, th, tr, td, thead, tbody, tfoot, blockquote, iframe, hr, button, center, a, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button, input {
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    border: 0;
+    background-color: transparent;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+}
+a, body, button, div, form, h1, h2, html, iframe, img, input, label, li, ol, p, select, span, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-variant-alternates: ;
+    font-variant-position: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    font-optical-sizing: ;
+    font-kerning: ;
+    font-feature-settings: ;
+    font-variation-settings: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+#side-menu>ul>li>.btn, #side-menu .side-item {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: normal;
+    border-radius: 8px;
+}
+#side-menu .side-item, #side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu>ul>li>.btn {
+    height: 32px;
+    line-height: 2;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu ul .btn {
+    color: #757575;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    cursor: default;
+    position: relative;
+}
+#side-menu .side-controls {
+    text-align: center;
+    padding-left: 0;
+    overflow: hidden;
+    position: relative;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    border: solid 1px #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+.btn-full {
+    width: 100%;
+    height: 36px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    color: #424242;
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.btn {
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+    border: 1px solid #e0e0e0;
+    color: #212121;
+    padding: 0 15px;
+    border-radius: 8px;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+li {
+    list-style: none;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body, small {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-size: 13px;
+}
+body {
+    color: #424242;
+    word-wrap: break-word;
+    font: 13px / 1.1 Arial, Helvetica, sans-serif;
+    min-width: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+#side-menu #side-tom button.js-k-m:after {
+    top: 6px;
+    left: 6px;
+}
+#side-menu #side-tom button.js-k-m:after {
+    top: 6px;
+    left: 6px;
+}
+#side-menu #side-tom button:after {
+    content: "";
+    display: block;
+    position: absolute;
+}
+.spr_cifra, #c-afi .btn-afi, #c-exibir i, .c-rol_play, .c-vel_bg, .c-vel button i, #side-menu #side-tom button:after, #side-menu .btn:before, .cifra .ico_verified {
+    background-image: url(../img/desktop//cifra.svg?v=6);
+}
+#side-menu #side-tom button:after {
+    content: "";
+    display: block;
+    position: absolute;
+}
+#side-menu #side-tom-more:after {
+    width: 10px;
+    height: 10px;
+    background-position: 0 -220px;
+}
+#side-menu #side-tom-more:after {
+    width: 10px;
+    height: 10px;
+}
+Third-party cookie phaseout warnings in Network and Application
+The Network and Application panels now show you warnings next to cookies affected by the third-party cookie restrictions from Tracking Protection.
+Improved debugging in the Network panel
+The Network panel now always shows the request's failure reason in the Status column and the Copy submenu is now better organized.
+Breadcrumbs in Performance
+The Performance panel gets customizable breadcrumbs to help you set, track, and jump between zoom levels.

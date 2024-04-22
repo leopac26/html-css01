@@ -1,0 +1,19 @@
+.content .toggle{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background: #092c3e;
+    right: 15px;
+    top: 13px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.toggle .circle{width: 16px;
+    height: 16px;
+    background: #fff;
+    border-radius: 50%;
+    margin-left: 3px;
+    transition: all 0.35s ease;}

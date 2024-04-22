@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+  border: 2px solid blue;
+  width: 600px;
+  height: 100%;
+  margin: 10px auto 10px auto;}
+  p{text-indent: 30px;
+    text-align: center;
+    padding:10px;
+
+}
+nav{
+  border: 2px solid red;
+  width: 500px;
+  height: 100%;
+  margin: auto;
+  padding: 30px;
+}
+main{
+  border: 2px solid pink;
+  width: 200px;
+  height: 200px;
+  margin: 10px auto 10px auto;
+}
+article{
+  border: 2px solid greenyellow;
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+  background:rgb(241, 176, 176);
+}
+section{
+  border: 2px solid rgb(206, 12, 12);
+  width: 100px;
+  height: 100px;
+  background: dimgray;
+  
+}
+aside{
+  border: 2px solid blueviolet ;
+  width: 75px;
+  height: 75px;
+  margin: 30PX;
+  background: rgb(124, 17, 17);
+}
